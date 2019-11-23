@@ -12,7 +12,19 @@ Multi-Threading TCP chat server in Python
       socket  
       argparse  
       threading  
-      time
-  
+      time  
+
+## o Screenshots  
+<div>  
+  <img src="./img/server.JPG">
+  <p> -server </p>  
+  <img src="./img/client_1.JPG">
+  <p> -client 1 </p>  
+  <img src="./img/client_2.JPG">
+  <p> -client 2 </p>  
+  <img src="./img/client_3.JPG">
+  <p> -client 3 </p>  
+</div>  
+
 ## o License  
   This project is under MIT license. See the [LICENSE](https://github.com/Sungmin-Joo/Multi-Threading-Chat-Server/blob/master/LICENSE) file for more info.  
