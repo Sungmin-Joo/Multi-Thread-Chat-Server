@@ -14,6 +14,17 @@ Multi-Threading TCP chat server in Python
       threading  
       time  
 
+## o How to use  
+  1. Run the server code on the server with -p(optional) option.    
+  2. Run the client code on the client with -i, -u, -p(optional) option.  
+  3. Let's chat!  
+  4. If you want exit, input "/종료".  
+  
+  - Option description.  
+    -p : port  
+    -i : ip  
+    -u : username  
+  
 ## o Screenshots  
 <div>  
   <img src="./img/server.JPG">
